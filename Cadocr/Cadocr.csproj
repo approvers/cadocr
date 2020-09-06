@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UserSecretsId>dotnet-Cadocr-FF61F0AB-7FAE-41CF-A884-9DFB9AAF6C31</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Discord.Net" Version="2.2.0" />
+        <PackageReference Include="Google.Cloud.Vision.V1" Version="2.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.7" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.7" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.7" />
+    </ItemGroup>
+</Project>

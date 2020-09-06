@@ -1,0 +1,6 @@
+﻿bin/
+obj/
+packages/
+
+*.local.json
+*.user

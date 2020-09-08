@@ -1,0 +1,8 @@
+﻿version: '3.8'
+
+services:
+  app:
+    build: ./Cadocr
+    environment:
+      - Discord__Bot__Token
+      - CloudVision__Credentials_Path

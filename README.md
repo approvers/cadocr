@@ -1,4 +1,5 @@
 ﻿# Cadocr
+![.NET Core](https://github.com/approvers/cadocr/workflows/.NET%20Core/badge.svg)
 ![Docker](https://github.com/approvers/cadocr/workflows/Docker/badge.svg)  
 Registers meigens from captured image on Discord.
 
